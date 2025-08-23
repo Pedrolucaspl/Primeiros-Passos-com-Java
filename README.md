@@ -17,12 +17,14 @@ O objetivo é consolidar os conceitos fundamentais da linguagem e praticar a pro
 ## 🛠️ Estrutura do Repositório
 O conteúdo está dividido em módulos de acordo com os tópicos do curso:
 
-- `Exercícios - Fundamentos da Linguagem de Programação Java` 
+- `Exercícios - Fundamentos da Linguagem de Programação Java`
+- `Exercícios - Estruturas de Controle em Java`
 
 ---
 ## 📅 Progresso
  
  ✅ Fundamentos da Linguagem de Programação Java
+ ✅  Estruturas de Controle em Java
 
 ## 📌 Observação
 Este repositório tem caráter educacional e reflete minha evolução no aprendizado de Java através do curso da Digital Innovation One.
