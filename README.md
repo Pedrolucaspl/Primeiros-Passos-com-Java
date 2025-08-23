@@ -23,8 +23,8 @@ O conteúdo está dividido em módulos de acordo com os tópicos do curso:
 ---
 ## 📅 Progresso
  
- ✅ Fundamentos da Linguagem de Programação Java
- ✅  Estruturas de Controle em Java
+- ✅ Fundamentos da Linguagem de Programação Java
+- ✅  Estruturas de Controle em Java
 
 ## 📌 Observação
 Este repositório tem caráter educacional e reflete minha evolução no aprendizado de Java através do curso da Digital Innovation One.
